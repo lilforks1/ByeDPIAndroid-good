@@ -1,4 +1,4 @@
-# ByeDPI for Android
+# ByeDPI for Android, but better
 
 [English](README.md) | **Русский**
 
@@ -6,6 +6,7 @@
   <img alt="Логотип ByeDPI" src=".github/images/logo.svg" width="100%" height="200px">
 </div>
 
+## Это лишь Форк оригинального ByeDPI Android!!! 
 ---
 
 Приложение для Android, которое запускает локальный VPN-сервис для обхода DPI (Deep Packet Inspection) и цензуры.
@@ -25,7 +26,7 @@ height="80">](https://apt.izzysoft.de/fdroid/index/apk/io.github.dovecoteescapee
 
 1. Установите [Obtainium](https://github.com/ImranR98/Obtainium/blob/main/README.md#installation)
 2. Добавьте приложение по URL:  
-   `https://github.com/dovecoteescapee/ByeDPIAndroid`
+   `https://github.com/lilforks1/ByeDPIAndroid-good`
 
 ## Настройки
 
